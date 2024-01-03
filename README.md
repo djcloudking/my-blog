@@ -42,6 +42,8 @@ Your contributions are greatly appreciated! Together, we can make this blog even
 
 All my articles can be found at www.fahmacloud.com or, click on the article that interest you the most below:
 
+- [AWS EBS explained in simple words](https://fahmacloud.com/aws-ebs-explained-in-simple-words/)
+
 - [GitHub explained in simple words for beginners](https://fahmacloud.com/github-explained-in-simple-words-for-beginners/)
 
 - [DevOps: Understanding Git Branching](https://fahmacloud.com/understanding-git-branching/)
