@@ -42,6 +42,10 @@ Your contributions are greatly appreciated! Together, we can make this blog even
 
 All my articles can be found at www.fahmacloud.com or, click on the article that interest you the most below:
 
+- [AWS CloudFormation explained in simple words](https://fahmacloud.com/aws-cloudformation-explained-in-simple-words/)
+
+- [Terraform explained in simple words](https://fahmacloud.com/terraform-explained-in-simple-words/)
+
 - [AWS EBS explained in simple words](https://fahmacloud.com/aws-ebs-explained-in-simple-words/)
 
 - [GitHub explained in simple words for beginners](https://fahmacloud.com/github-explained-in-simple-words-for-beginners/)
