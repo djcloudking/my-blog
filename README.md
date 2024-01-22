@@ -8,7 +8,7 @@ Welcome to my personal blog repository! Here you'll find a collection of article
 This repository serves as my digital journal, where I share my thoughts, experiences, and knowledge on a wide range of subjects and a variety of articles.
 
 
-## Blog Categories 📖
+## Blog Categories 
 
 - Cloud (AWS, Azure, GCP, Splunk)
 
@@ -102,6 +102,6 @@ All my articles can be found at www.fahmacloud.com or, click on the article that
 
 - [Importance of QA Testing](https://fahmacloud.com/importance-of-qa-testing/)
 
-- - [Introduction to Site Reliability Engineering: Principles and Objectives](https://fahmacloud.com/introduction-to-site-reliability-engineering-principles-and-objectives/)
+- [Introduction to Site Reliability Engineering: Principles and Objectives](https://fahmacloud.com/introduction-to-site-reliability-engineering-principles-and-objectives/)
 
 - [Azure DevOps: Tools and Services](https://fahmacloud.com/azure-devops-tools-and-services/)
