@@ -42,6 +42,12 @@ Your contributions are greatly appreciated! Together, we can make this blog even
 
 All my articles can be found at www.fahmacloud.com or, click on the article that interest you the most below:
 
+- [AWS VPC explained in simple words](https://fahmacloud.com/aws-vpc-explained-in-simple-words/)
+
+- [What's new in the Cloud?](https://fahmacloud.com/whats-new-in-the-cloud/)
+ 
+- [AWS ECS explained in simple words](https://fahmacloud.com/aws-ecs-explained-in-simple-words/)
+
 - [AWS S3 event notifications explained in simple words](https://fahmacloud.com/aws-s3-event-notification/)
 
 - [AWS CloudFormation explained in simple words](https://fahmacloud.com/aws-cloudformation-explained-in-simple-words/)
