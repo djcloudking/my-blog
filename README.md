@@ -42,6 +42,8 @@ Your contributions are greatly appreciated! Together, we can make this blog even
 
 All my articles can be found at www.fahmacloud.com or, click on the article that interest you the most below:
 
+- [AWS EKS explained in simple words](https://fahmacloud.com/aws-eks-explained-in-simple-words/)
+
 - [AWS VPC explained in simple words](https://fahmacloud.com/aws-vpc-explained-in-simple-words/)
 
 - [What's new in the Cloud?](https://fahmacloud.com/whats-new-in-the-cloud/)
